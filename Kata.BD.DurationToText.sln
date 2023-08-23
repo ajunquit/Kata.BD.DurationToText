@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33717.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata.BD.DurationToText", "Kata.BD.DurationToText\Kata.BD.DurationToText.csproj", "{FBC4753D-9978-49DD-B02A-5B7827F6A78C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata.BD.DurationToText.Test", "Kata.BD.DurationToText.Test\Kata.BD.DurationToText.Test.csproj", "{360A3EB7-B0BD-44E3-9A59-00E9B6757CF7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{136D2143-440A-4608-8F35-E731E1011802}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBC4753D-9978-49DD-B02A-5B7827F6A78C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC4753D-9978-49DD-B02A-5B7827F6A78C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC4753D-9978-49DD-B02A-5B7827F6A78C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC4753D-9978-49DD-B02A-5B7827F6A78C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{360A3EB7-B0BD-44E3-9A59-00E9B6757CF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{360A3EB7-B0BD-44E3-9A59-00E9B6757CF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{360A3EB7-B0BD-44E3-9A59-00E9B6757CF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{360A3EB7-B0BD-44E3-9A59-00E9B6757CF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55266A6A-8B00-451C-A565-21E437CAEAD2}
+	EndGlobalSection
+EndGlobal
